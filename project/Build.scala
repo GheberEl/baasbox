@@ -50,7 +50,7 @@ object ApplicationBuild extends Build {
     			"org.apache.commons" % "commons-email" % "1.3.1",
           "com.github.tony19" % "named-regexp" % "0.2.3",
           "org.scribe" % "scribe" % "1.3.2",
-				  "com.eaio.uuid" % "uuid" % "3.4.2",
+				  "com.github.stephenc.eaio-uuid" % "uuid" % "3.4.2"
           "org.apache.httpcomponents" % "httpclient" % "4.3.6",
 				  "org.apache.tika" % "tika-core" % "1.7",
 				  "org.apache.tika" % "tika-parsers" % "1.7",
